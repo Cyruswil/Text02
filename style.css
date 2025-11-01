@@ -14,7 +14,7 @@ html {
     scroll-behavior: smooth;
 }
 html, body {
-  width: 110%;
+  width: 130%;
   overflow-x: hidden;
 }
 body {
@@ -762,5 +762,6 @@ footer .text span a:hover{
     opacity: 0;
   }
 }
+
 
 
